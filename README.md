@@ -13,6 +13,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 - ✅ **Frontend**: HTML, CSS, JavaScript (intermediate), TypeScript, Next.js, Tailwind  
 - 🤖 **AI/Tooling**: OpenAI Agents SDK | Learning: Gemini CLI, Claude CLI, Spec Kit  
