@@ -13,7 +13,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?for-the-badge&logo=python&logoColor=white)
 
 - ✅ **Frontend**: HTML, CSS, JavaScript (intermediate), TypeScript, Next.js, Tailwind  
 - 🤖 **AI/Tooling**: OpenAI Agents SDK | Learning: Gemini CLI, Claude CLI, Spec Kit  
@@ -25,10 +25,11 @@
 
 | Project | Tech | Live Demo |
 |--------|------|-----------|
-| **Dynamic Resume Builder** | HTML, CSS, JavaScript | [→ View](https://my-dynamic-resume-builder.vercel.app/) |
-| **3D Image Slider** | Html, CSS | [→ View](https://3d-image-slider.vercel.app/) |
+| **Physical AI Textbook** | Python, Javascript, CSS, Powershell, PLpgSQL | [→ View](https://mrafoo-physical-ai-and-humanoid-robotics-book.vercel.app/) |
 | **Elitee Mart (E-Commerce)** | Next.js 13, TypeScript, Tailwind CSS, Sanity CMS, Framer Motion, Vercel Deployment | [→ View](https://elitee-mart.vercel.app/) |
 | **Gamiing Portal** | Vite, React, Tailwind CSS, GSAP | [→ View](https://gamiing-website.vercel.app/) |
+| **Dynamic Resume Builder** | HTML, CSS, JavaScript | [→ View](https://my-dynamic-resume-builder.vercel.app/) |
+| **3D Image Slider** | Html, CSS | [→ View](https://3d-image-slider.vercel.app/) |
 
 ➡️ More in [my repositories](https://github.com/MrAfoo?tab=repositories)
 
