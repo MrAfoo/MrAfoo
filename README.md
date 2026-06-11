@@ -37,7 +37,7 @@
 
 ### 📺 Creative Side
 I run a YouTube channel where I experiment with meme culture, editing, and internet trends:  
-🎥 [@lemomentcringe](https://www.youtube.com/@lemomentcringe)
+🎥 [@SynthVision-001](https://www.youtube.com/@SynthVision-001), [@cringerevanche](https://www.youtube.com/channel/UC586dNwsROelVzpYYVX4SJw) 
 
 ---
 
