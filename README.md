@@ -35,12 +35,6 @@
 
 ---
 
-### 📺 Creative Side
-I run a YouTube channel where I experiment with meme culture, editing, and internet trends:  
-🎥 [@SynthVision-001](https://www.youtube.com/@SynthVision-001) [@cringerevanche](https://www.youtube.com/channel/UC586dNwsROelVzpYYVX4SJw) 
-
----
-
 📫 Let’s connect & collaborate on frontend, AI tooling, or content-tech projects!  
 *(Note: DMs open — but email not listed here for privacy 🛡️)*
 
